@@ -1,9 +1,0 @@
-@article{zhao2018influence,
-  title={Influence of hydrodynamic pressure and vein strength on the super-elasticity of honeybee wings},
-  author={Zhao, Jieliang and Xu, Mengdi and Liang, Youjian and Yan, Shaoze and Niu, Wendong},
-  journal={Journal of insect physiology},
-  volume={109},
-  pages={100--106},
-  year={2018},
-  publisher={Elsevier}
-}

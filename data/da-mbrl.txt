@@ -1,6 +1,0 @@
-@article{chen2020delay,
-  title={Delay-Aware Model-Based Reinforcement Learning for Continuous Control},
-  author={Chen, Baiming and Xu, Mengdi and Li, Liang and Zhao, Ding},
-  journal={arXiv preprint arXiv:2005.05440},
-  year={2020}
-}

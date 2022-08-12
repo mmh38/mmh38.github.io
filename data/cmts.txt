@@ -1,7 +1,0 @@
-@inproceedings{ding2020cmts,
-  title={CMTS: Conditional Multiple Trajectory Synthesizer for Generating Safety-critical Driving Scenarios},
-  author={Ding, Wenhao and Xu, Mengdi and Zhao, Ding},
- booktitle= {International Conference on Robotics and Automation (ICRA)},
- year={2020},
- organization={IEEE}
-}

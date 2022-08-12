@@ -1,6 +1,0 @@
-@article{xu2021accelerated,
-  title={Accelerated Policy Evaluation: Learning Adversarial Environments with Adaptive Importance Sampling},
-  author={Xu, Mengdi and Huang, Peide and Li, Fengpei and Zhu, Jiacheng and Qi, Xuewei and Oguchi, Kentaro and Huang, Zhiyuan and Lam, Henry and Zhao, Ding},
-  journal={arXiv preprint arXiv:2106.10566},
-  year={2021}
-}

@@ -1,6 +1,0 @@
-@article{chen2020delay,
-  title={Delay-Aware Multi-Agent Reinforcement Learning},
-  author={Chen, Baiming and Xu, Mengdi and Liu, Zuxin and Li, Liang and Zhao, Ding},
-  journal={arXiv preprint arXiv:2005.05441},
-  year={2020}
-}

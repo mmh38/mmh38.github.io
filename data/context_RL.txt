@@ -1,6 +1,0 @@
-@article{chen2021context,
-  title={Context-Aware Safe Reinforcement Learning for Non-Stationary Environments},
-  author={Chen, Baiming and Liu, Zuxin and Zhu, Jiacheng and Xu, Mengdi and Ding, Wenhao and Zhao, Ding},
-  journal={arXiv preprint arXiv:2101.00531},
-  year={2021}
-}

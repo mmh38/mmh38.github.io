@@ -1,6 +1,0 @@
-@article{huang2022robust,
-  title={Robust Reinforcement Learning as a Stackelberg Game via Adaptively-Regularized Adversarial Training},
-  author={Huang, Peide and Xu, Mengdi and Fang, Fei and Zhao, Ding},
-  journal={arXiv preprint arXiv:2202.09514},
-  year={2022}
-}

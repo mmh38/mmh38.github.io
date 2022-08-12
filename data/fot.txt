@@ -1,6 +1,0 @@
-@article{zhu2021functional,
-  title={Functional Optimal Transport: Mapping Estimation and Domain Adaptation for Functional data},
-  author={Zhu, Jiacheng and Guha, Aritra and Xu, Mengdi and Ma, Yingchen and Lei, Rayleigh and Loffredo, Vincenzo and Nguyen, XuanLong and Zhao, Ding},
-  journal={arXiv preprint arXiv:2102.03895},
-  year={2021}
-}

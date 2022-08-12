@@ -1,8 +1,0 @@
-@inproceedings{wu2019multi,
-  title={Multi-mosquito object detection and 2D pose estimation for automation of PfSPZ malaria vaccine production},
-  author={Wu, Hongtao and Mu, Jiteng and Da, Ting and Xu, Mengdi and Taylor, Russell H and Iordachita, Iulian and Chirikjian, Gregory S},
-  booktitle={2019 IEEE 15th International Conference on Automation Science and Engineering (CASE)},
-  pages={411--417},
-  year={2019},
-  organization={IEEE}
-}
